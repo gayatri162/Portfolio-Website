@@ -31,9 +31,16 @@ Welcome to my personal portfolio website!
 
 
 ## 🚀 Live Website
-[click here]()
+[click here](https://gayatri162.github.io/Portfolio-Website/)
 
 ## 📬 Connect with Me
+
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [https://www.linkedin.com/in/gayatri-singh/](https://www.linkedin.com/in/gayatri-singh/) |
+| 📧 Email | [gayatrisingh44567@gmail.com](mailto:gayatrisingh44567@gmail.com) |
+| 💻 GitHub | [https://github.com/gayatri162](https://github.com/gayatri162) |
 
 
 --------
