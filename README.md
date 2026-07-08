@@ -31,7 +31,7 @@ Welcome to my personal portfolio website!
 
 
 ## 🚀 Live Website
-[click here](https://gayatri162.github.io/Portfolio-Website/)
+[click here](https://portfolio-website-pied-two-55.vercel.app/)
 
 ## 📬 Connect with Me
 
